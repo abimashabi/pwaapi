@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Turkey, common","category":"Fuscia"},
+{"id":2,"name":"Gray duiker","category":"Blue"},
+{"id":3,"name":"Sun gazer","category":"Puce"},
+{"id":4,"name":"Groundhog","category":"Crimson"},
+{"id":5,"name":"Gaur","category":"Orange"},
+{"id":6,"name":"Ferret, black-footed","category":"Goldenrod"},
+{"id":7,"name":"Snowy owl","category":"Aquamarine"},
+{"id":8,"name":"Thirteen-lined squirrel","category":"Puce"},
+{"id":9,"name":"Sugar glider","category":"Puce"},
+{"id":10,"name":"White-tailed deer","category":"Orange"},
+{"id":11,"name":"Kiskadee, great","category":"Violet"},
+{"id":12,"name":"Tortoise, galapagos","category":"Green"},
+{"id":13,"name":"Black-faced kangaroo","category":"Pink"},
+{"id":14,"name":"Indian porcupine","category":"Pink"},
+{"id":15,"name":"Kangaroo, black-faced","category":"Puce"},
+{"id":16,"name":"Native cat","category":"Aquamarine"},
+{"id":17,"name":"Squirrel, nelson ground","category":"Goldenrod"},
+{"id":18,"name":"Orca","category":"Crimson"},
+{"id":19,"name":"Galapagos mockingbird","category":"Khaki"},
+{"id":20,"name":"Ground monitor (unidentified)","category":"Teal"}]
+}
